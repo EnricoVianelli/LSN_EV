@@ -1,0 +1,11 @@
+N_BLK:          100
+N_STEP_TOT:     100000
+X_0:            1.0
+DELTA_X:        3.0
+MU:             0.8
+SIGMA:          0.6
+T_0:            1.0
+DELTA_MU:       1.0
+DELTA_SIGMA:    1.0
+MU_ERROR:       0.0001
+SIGMA_ERROR:    0.0001
